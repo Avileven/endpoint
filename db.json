@@ -1,5 +1,4 @@
-{
-  "blogs": [
+ [
     {
       "title": "Mobile first",
       "body": "During recent years there is an increased use of watching web sites via the mobile. Actually, numbers show that on average, 70% of new web’s campaigns  are targeted to mobile users. \n\nSince the reality has changed, we need to change our web development strategy. meaning , we should first design and develop our website for the mobile platform and only then adopt it to the desktop. \n\nDue to the mobile platform limitations such as screen side , we should also change the overlook of the site to be fitted to the “eyeballs” of the users. \n\nFrom a user experience perspective, we should focus only on displaying important data on the screen and adopt a “drop down” attitude to the content creation.  \n\nFrom performance considerations, we should limit the amount of pictures ,movies and “ motion effects”  that are loaded on the screen. \n",
@@ -34,4 +33,4 @@
       "id": 4
     }
   ]
-}
+
